@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 ANSIBLE_METADATA = {
     "metadata_version": "1.3",
     "status": ["preview"],
